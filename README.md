@@ -1,5 +1,6 @@
 # worksphere
 a coolest platform to manage employee records
+An assessment for dovel enterprise.
 
 ## Project overview
 WorkSphere is a robust and intuitive application designed to simplify HR operations. It offers key features like viewing, adding, updating, and deleting employee records, enabling organizations to manage their workforce effectively.
