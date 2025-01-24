@@ -1,0 +1,97 @@
+.employee-list-container {
+  max-width: 1100px;
+  margin: 80px auto;
+  padding: 20px;
+  background: wheat;
+  border-radius: 12px;
+  font-family: "Inter", sans-serif;
+}
+
+.employee-list-container h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+  letter-spacing: 0.5px;
+color:white;
+}
+
+.employee-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  color: white;
+}
+
+.employee-table thead {
+  background: #007bff;
+  color: white;
+}
+
+.employee-table th,
+.employee-table td {
+  padding: 15px;
+  text-align: left;
+  font-size: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.employee-table th {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.employee-table tr:nth-child(even) {
+  background: #f9f9f9;
+}
+
+.employee-table tr:hover {
+  background: #f1f1f1;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.action-buttons button {
+  padding: 8px 12px;
+  font-size: 0.9rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.action-buttons .edit-button {
+  background: #ffc107;
+}
+
+.action-buttons .edit-button:hover {
+  background: #e0a800;
+  transform: translateY(-2px);
+}
+
+.action-buttons .delete-button {
+  background: #dc3545;
+}
+
+.action-buttons .delete-button:hover {
+  background: #b02a37;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .employee-table th,
+  .employee-table td {
+    font-size: 0.9rem;
+    padding: 10px;
+  }
+
+  .action-buttons button {
+    font-size: 0.8rem;
+    padding: 6px 10px;
+  }
+}
