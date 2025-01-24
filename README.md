@@ -1,5 +1,6 @@
 # worksphere
-a coolest platform to manage employee records
+a coolest platform to manage employee records.
+
 An assessment for dovel enterprise.
 
 ## Project overview
