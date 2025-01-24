@@ -101,3 +101,23 @@ Here are the available API routes and their descriptions:
 | POST   | `/api/employees`     | Add a new employee record.                |
 | PUT    | `/api/employees/:id` | Update an existing employee record.       |
 | DELETE | `/api/employees/:id` | Delete an employee record.                |
+
+
+## Snap-shots :
+
+1. *Home* :
+
+   ![image alt](https://github.com/pavithranarul/Work-Sphere/blob/0f02f71336cb5562534967b4b0e06bfb046e7e96/screenshots/home.jpeg)
+
+2. *Add Employees* :
+
+   ![image alt](https://github.com/pavithranarul/Work-Sphere/blob/0f02f71336cb5562534967b4b0e06bfb046e7e96/screenshots/addemp.jpeg)
+
+3. *View Employees* :
+
+   ![image alt](https://github.com/pavithranarul/Work-Sphere/blob/0f02f71336cb5562534967b4b0e06bfb046e7e96/screenshots/viewemp.jpeg)
+
+4. *Edit Employees* :
+
+   ![image alt](https://github.com/pavithranarul/Work-Sphere/blob/0f02f71336cb5562534967b4b0e06bfb046e7e96/screenshots/editemp.jpeg)
+
